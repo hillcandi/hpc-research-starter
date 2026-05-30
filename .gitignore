@@ -1,0 +1,20 @@
+# Large data and model outputs stay out of Git (they live on Vista $SCRATCH)
+data/raw/*
+data/processed/*
+results/*
+!**/.gitkeep
+
+# Figures and notebooks are tracked (small, go in the paper)
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Job logs
+logs/*.out
+logs/*.err
+
+# OS
+.DS_Store
