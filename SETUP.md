@@ -40,4 +40,4 @@ How each entry point works:
 
 ## What happens next
 
-Sage introduces herself and walks you through your **research brief** first, then your **methodology**. Those filled-in templates become the AI's knowledge base for the rest of the week — code, analysis, and writing all read from them.
+Sage gets your workspace set up and walks you through your **research brief** first, then your **methodology**. Those filled-in templates become the AI's knowledge base for the rest of the week — code, analysis, and writing all read from them.

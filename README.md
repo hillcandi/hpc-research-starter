@@ -57,4 +57,10 @@ A typical loop:
 
 ## Skills
 
-`skills/` is where reusable `SKILL.md` instructions live, so you can package a repeatable task once and use it in any tool (Claude Code, Cursor, VS Code, or Claude on the web). It's empty for now; see [`skills/README.md`](skills/README.md) for how to add and use them.
+`skills/` is where reusable `SKILL.md` instructions live, so you can package a repeatable task once and use it in any tool (Claude Code, Cursor, VS Code, or Claude on the web). It currently includes **Sage**, your setup guide; see [`skills/README.md`](skills/README.md) for the list and how to add more.
+
+---
+
+## Credits
+
+Created by **Ashley Scruse, Ph.D.** — [ashleyscruse.com](https://ashleyscruse.com). © 2026 Ashley Scruse. All rights reserved. See [NOTICE](NOTICE).
