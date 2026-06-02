@@ -105,17 +105,19 @@ IPEDS provides institutional demographic context to describe and validate the pa
 
 **What method will you use?** (e.g., XGBoost, Random Forest, LSTM, etc.)
 
-
+Comparative statistical analysis — ANOVA or mixed-effects regression to test whether evaluation scores differ significantly across evaluator demographics (role, region, institution type) and AI models (ChatGPT, Gemini, Claude), controlling for subject area (sociology, STEM, writing, history).
 
 **What is your outcome variable?**
 
-
+Evaluation scores from the culturally-informed framework — ratings assigned by diverse faculty and students to AI-generated tutoring responses.
 
 **What are your key features?**
 
-
+Evaluator role (faculty/student), evaluator region, institution type (HBCU/MSI), AI model evaluated, subject area of tutoring prompt.
 
 **What does success look like?** (What result would be worth publishing?)
+
+Statistically significant differences in how evaluators from different cultural and regional contexts rate AI tutoring responses — demonstrating that the evaluator's cultural position meaningfully shapes AI assessment outcomes.
 
 
 
