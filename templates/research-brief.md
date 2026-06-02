@@ -95,9 +95,11 @@ IPEDS provides institutional demographic context to describe and validate the pa
 
 | # | Venue Name | Type | Next Deadline | Page Limit | Why It Fits |
 |---|-----------|------|---------------|-----------|-------------|
-| 1 | | Conference / Journal | | | |
-| 2 | | Conference / Journal | | | |
-| 3 | | Conference / Journal | | | |
+| 1 | British Journal of Sociology of Education | Journal | Rolling | TBD | Peer-reviewed, recently publishing AI + education sociology work |
+| 2 | International Journal of Sociology of Education | Journal | Rolling | TBD | Double-blind peer review, covers AI, equity, and education sociology |
+| 3 | Frontiers in Education | Journal | Rolling | TBD | Open access, already publishing culturally responsive AI education work |
+| 4 | AIED 2026 — International Conference on AI in Education | Conference | TBD | TBD | Top AI in education venue — Seoul, co-located with EDM and L@S |
+| 5 | APUS AI and the Future of Education 2026 | Conference | TBD | TBD | Free, virtual, November 2026 — explicit equity and accessibility track |
 
 ---
 
