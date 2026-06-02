@@ -1,6 +1,6 @@
 # Research Brief
 
-**Name:** Candice Idlebird
+**Name:** Dr. Candice Idlebird
 **Date:** 2026-06-02
 **Institution:** Claflin University
 **Discipline:** Sociology

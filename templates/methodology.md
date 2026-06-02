@@ -1,6 +1,6 @@
 # Methodology Document
 
-**Name:** Candice Idlebird
+**Name:** Dr. Candice Idlebird
 **Date:** 2026-06-02
 **Research Question:** How do diverse faculty and students across regional and community contexts differentially assess AI-generated tutoring responses, as measured by a culturally-informed evaluation framework applied within Google's Amplify platform?
 
