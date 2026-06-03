@@ -6,3 +6,10 @@ shap
 matplotlib
 jupyter
 tapipy
+requests
+openai
+anthropic
+google-generativeai
+statsmodels
+scipy
+pingouin
